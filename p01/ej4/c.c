@@ -1,6 +1,7 @@
 // c.c
 // Prints the stdin on stdout while counting the lines
 
+#define _GNU_SOURCE
 #include <stdio.h>
 #include <sys/types.h>
 

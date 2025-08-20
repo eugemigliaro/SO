@@ -1,0 +1,40 @@
+# Archivos compilados
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Archivos de depuración
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Archivos de core dump
+core
+core.*
+
+# Archivos temporales del editor
+*~
+*.swp
+*.swo
+.vscode/settings.json
+
+# Archivos de salida generados por programas
+output.txt
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Directorios de build
+build/
+dist/
+bin/
+obj/
+
+# Archivos de backup
+*.bak
+*.backup
