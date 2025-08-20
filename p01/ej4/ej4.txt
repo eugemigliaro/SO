@@ -1,0 +1,9 @@
+/* Dados los programas dentro del repositorio ejemplos/producer-consumer y la resolución del inciso 3 del ejercicio 2:
+1. Modifique la resolución del inciso 3 del ejercicio 2, de manera tal que el proceso padre ejecute p y c (fork y exec) conectando el
+stdout de p al stdin de c utilizando un pipe (pipe).
+2. Modifique la resolución del inciso 3 del ejercicio 2, de manera tal que el proceso padre ejecute p en background. El programa c
+no participa en este ejercicio.
+3. Modifique la resolución del inciso 3 del ejercicio 2, de manera tal que el proceso padre ejecute p y redireccione stdout a un
+archivo. (close y open). El programa c no participa en este ejercicio.
+4. Modifique la resolución del inciso 3 del ejercicio 2, de manera tal que el proceso padre ejecute c, pero que en lugar de leer de
+stdin lea de un archivo. El programa p no participa en este ejercicio. */
